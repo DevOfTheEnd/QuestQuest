@@ -1,0 +1,7 @@
+{
+    "guard":{
+        "type":"buff",
+        "stat": "dmg_red",
+        "effect": "50"
+    }
+}

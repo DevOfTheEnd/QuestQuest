@@ -1,0 +1,25 @@
+{
+    "rat":{
+        "name": "Rat",
+        "difficulty_min": 0,
+        "Base_hp": 6,
+        "skill": ["bite"],
+        "loot_table": "rat" 
+    },
+
+    "med_rat":{
+        "name": "Medium Rat",
+        "difficulty_min": 2,
+        "Base_hp": 6,
+        "skill": ["bite"],
+        "loot_table": "rat" 
+    },
+    
+    "big_rat":{
+        "name": "Big Rat",
+        "difficulty_min": 99,
+        "Base_hp": 6,
+        "skill": ["bite"],
+        "loot_table": "rat" 
+    }
+}

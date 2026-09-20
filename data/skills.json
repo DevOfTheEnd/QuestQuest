@@ -1,0 +1,13 @@
+{
+    "strike":{
+        "type": "attack",
+        "target": "St",
+        "dmg": 5,
+        "dmg_type": "Phys"
+    },
+    "guard":{
+        "type": "buff",
+        "target": "Se",
+        "effect": ["guard", 1]
+    }
+}
